@@ -19,4 +19,4 @@ before_script:
  - cd ~/builds/ss
 
 script: 
- - phpunit silverstripe-yhy-weather/tests/
+ - phpunit yhy-weather/tests/
