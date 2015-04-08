@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The blog module allows you to post blogs on your SilverStripe. It includes the ability to post blogs using a site front-end form. Blogs are summarised on the blog holder page type, with more detail viewable when a specific blog is clicked.
+The YHY Weather module allows you to post weather information on your SilverStripe Site. It includes the ability to post blogs using a site front-end form. Blogs are summarised on the blog holder page type, with more detail viewable when a specific blog is clicked.
 
 ## Maintainer Contact ##
 
