@@ -12,7 +12,7 @@
 	"license":"MIT",
 	"require":
 	{
-		"silverstripe/cms": "3.*"
+		"silverstripe/cms": "~3.1"
 	},
 	"suggest":
 	{
