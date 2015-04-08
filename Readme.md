@@ -1,4 +1,4 @@
-# Silvertripe Yahaay Module - Weather
+# Silvertripe Weather Module - Yahaay Weather
 
 [![Build Status](https://secure.travis-ci.org/eLBirador/silverstripe-yhy-weather.svg?branch=master)](https://travis-ci.org/eLBirador/silverstripe-yhy-weather)
 
