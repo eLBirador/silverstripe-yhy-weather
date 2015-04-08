@@ -19,4 +19,4 @@ before_script:
  - cd ~/builds/ss
 
 script: 
- - phpunit blog/tests/
+ - phpunit silverstripe-yhy-weather/tests/
