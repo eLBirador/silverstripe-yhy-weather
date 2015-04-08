@@ -1,0 +1,8 @@
+---
+Name: weatherroutes
+After: 'framework/routes#coreroutes'
+---
+Director:
+  rules:
+    'weather': 'YHYWeather_Controller'
+---
