@@ -9,10 +9,10 @@
 		"email": "gerald@yahaay.com"
 	}
 	],
-
+	"license":"MIT",
 	"require":
 	{
-		"silverstripe/cms": "~3.1"
+		"silverstripe/cms": "3.*"
 	},
 	"suggest":
 	{
