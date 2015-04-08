@@ -1,0 +1,22 @@
+{
+	"name": "silverstripe/yhy-weather",
+	"description": "The blog module allows you to add Weather Details. It includes the ability to connect to Weather APIs. (e.g. forecast.io)",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "yahaay", "weather"],
+	"authors": [
+	{
+		"name": "Gerald Villacarlos",
+		"email": "gerald@yahaay.com"
+	}
+	],
+
+	"require":
+	{
+		"silverstripe/cms": "~3.1"
+	},
+	"suggest":
+	{
+		"silverstripe/widgets": "Additional 'sidebar features', e.g. a list of recent posts and a tagcloud"
+	},
+	"minimum-stability": "dev"
+}
