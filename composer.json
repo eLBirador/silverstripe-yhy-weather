@@ -1,6 +1,6 @@
 {
 	"name": "silverstripe/yhy-weather",
-	"description": "The blog module allows you to add Weather Details. It includes the ability to connect to Weather APIs. (e.g. forecast.io)",
+	"description": "The Silverstripe module allows you to add Weather Details on your site. It includes the ability to connect to Weather APIs. (e.g. forecast.io)",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "yahaay", "weather"],
 	"authors": [
@@ -16,7 +16,7 @@
 	},
 	"suggest":
 	{
-		"silverstripe/widgets": "Additional 'sidebar features', e.g. a list of recent posts and a tagcloud"
+		"silverstripe/widgets": "Additional 'sidebar features', e.g. weather forecast widget"
 	},
 	"minimum-stability": "dev"
 }
