@@ -1,7 +1,7 @@
 <?php
 
 // namespace YHY\models;
-use ForeCastIO\ForecastIO;
+//use ForeCastIO\ForecastIO;
 
 // use Cmfcmf\OpenWeatherMap;
 // use Cmfcmf\OpenWeatherMap\Exception as OWMException;
