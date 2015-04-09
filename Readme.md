@@ -26,7 +26,9 @@ The YHY Weather module allows you to post weather information on your SilverStri
 Out of the box the blog module uses bbcode, just like the forum module. If you want to go back to using the standard page editing toolbar you need to add the following code to your mysite/_config.php file
 
 	:::php
-	YhyWeather::set_coordinate( $lat, $lng);
+	YhyWeather::set( "source", "forecast.oi" );
+	YhyWeather::set( "apikey", "[API-KEY-HERE]" );
+	YhyWeather::set( "coordinate", Array( $lat, $lng) );
 
 ## Page types
 
