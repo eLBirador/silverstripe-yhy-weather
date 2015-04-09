@@ -1,14 +1,13 @@
 <?php
 
-namespace YHY\models;
-
-// use ForeCastIO\ForecastIO;
+// namespace YHY\models;
+use ForeCastIO\ForecastIO;
 
 // use Cmfcmf\OpenWeatherMap;
 // use Cmfcmf\OpenWeatherMap\Exception as OWMException;
 // use JeroenDesloovere\Geolocation\Geolocation;
 
-class Weather extends \DataObject { 
+class YHYWeather extends DataObject { 
 
 	static $db = array(
 		'data' => 'String'
