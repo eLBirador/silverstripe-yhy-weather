@@ -4,7 +4,7 @@
  * @package yhy-weather
  * @subpackage tests
  */
-class WeatherTest extends SapphireTest {
+class YHYWeatherTest extends SapphireTest {
 	// static $fixture_file = 'yhy-weather/tests/WeatherTest.yml';
 
 	/**
