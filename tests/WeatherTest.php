@@ -19,13 +19,13 @@ class WeatherTest extends SapphireTest {
 	/**
 	* Tests that the blog entry populate defaults works
 	*/
-	// public function testPopulateDefaults() {
-	// 	$member = $this->objFromFixture("Member", "blogOwner1");
-	// 	$member->logIn();
+	public function testPopulateDefaults() {
+		// $member = $this->objFromFixture("Member", "blogOwner1");
+		// $member->logIn();
 
-	// 	$condition = true;
-	// 	// $this->assertEquals( true, $condition );
-	// 	$member->logOut();
-	// }
+		$condition = true;
+		$this->assertEquals( true, $condition );
+		// $member->logOut();
+	}
 
 }
