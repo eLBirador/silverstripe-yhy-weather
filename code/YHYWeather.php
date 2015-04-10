@@ -9,9 +9,9 @@
 
 class YHYWeather extends DataObject { 
 
-	static $db = array(
-		'data' => 'String'
-	);
+	// static $db = array(
+	// 	'data' => 'String'
+	// );
 
 	public function getCMSFields() {
 		$fields = parent::getCMSFields();
