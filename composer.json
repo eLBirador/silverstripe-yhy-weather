@@ -12,7 +12,11 @@
 	"license":"MIT",
 	"require":
 	{
-		"silverstripe/cms": "~3.1"
+		"silverstripe/cms": "3.5.3",
+		"silverstripe/framework": "3.5.3",
+		"silverstripe/reports": "3.5.3",
+		"silverstripe/siteconfig": "3.5.3",
+		"silverstripe-themes/simple": "3.1.*"
 	},
 	"suggest":
 	{
